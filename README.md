@@ -1,4 +1,4 @@
-## Data_Science_Projects
+## Data Science Projects
 A collection of projects implementing Data Science tools in Python
 
 
