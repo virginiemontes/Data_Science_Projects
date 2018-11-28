@@ -13,5 +13,5 @@ Data exploration using for loops and if statements.
 Data analysis and visualization using SQLite an Python
 * [Visualizing Earnings Based On College Majors](http://nbviewer.jupyter.org/github/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Visualizing_Earnings_Based_On_College_Majors.ipynb) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Visualizing_Earnings_Based_On_College_Majors.ipynb)
 Data visualization with pandas.
-* [Analyzing Thanksgiving Dinner](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Analyzing_Thanksgiving_Dinner.ipynb) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Analyzing_Thanksgiving_Dinner.ipynb)
+* [Analyzing Thanksgiving Dinner](http://nbviewer.jupyter.org/github/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Analyzing_Thanksgiving_Dinner.ipynb) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Analyzing_Thanksgiving_Dinner.ipynb)
 Data exploration and analysis with pandas using list comprehension, functions, if statements, pivot tables, null data handling.
