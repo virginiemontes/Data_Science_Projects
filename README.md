@@ -15,3 +15,5 @@ Data analysis and visualization using SQLite an Python
 Data visualization with pandas.
 * [Analyzing Thanksgiving Dinner](http://nbviewer.jupyter.org/github/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Analyzing_Thanksgiving_Dinner.ipynb) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Analyzing_Thanksgiving_Dinner.ipynb)
 Data exploration and analysis with pandas using list comprehension, functions, if statements, pivot tables, null data handling.
+* [Exploring Ebay Car Sales Data](http://nbviewer.jupyter.org/github/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Exploring_Ebay_Car_Sales_Data.ipynb) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Exploring_Ebay_Car_Sales_Data.ipynb)
+Data cleaning and data analysis with pandas.
