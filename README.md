@@ -3,7 +3,7 @@ A collection of projects implementing Data Science tools in Python
 
 
 ### Notebooks
-* [IRAS 16562-3959 Multiwavelength Analysis]() - [GitHub]()
+* [IRAS 16562-3959 Multiwavelength Analysis](http://nbviewer.jupyter.org/github/virginiemontes/Data_Science_Projects/blob/master/Notebooks/IRAS_16562-3959_Multiwavelength_Analysis_of_the_Region.ipynb?flush_cache=true) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/IRAS_16562-3959_Multiwavelength_Analysis_of_the_Region.ipynb)
 This notebook contains the analysis of the IRAS 16562-3959 region done during my PhD. It includes DataFrame manipulations, Data visualization, Application of Supervised Machine Learning Algorithms (knn density estimator), Application of Unsupervised Machine Learning Algorithm (HDBSCAN), statistics.
 * [Medical diagnostic](http://nbviewer.jupyter.org/github/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Medical_diagnostic.ipynb) - [GitHub](https://github.com/virginiemontes/Data_Science_Projects/blob/master/Notebooks/Medical_diagnostic.ipynb)
 Data cleaning, Data visualization, Application of Supervised Machine Learning Algorithms (logistic regression, random forest classifier, cross-validation), Application of Unsupervised Machine Learning Algorithm (HDBSCAN).
